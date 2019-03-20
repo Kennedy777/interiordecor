@@ -3,6 +3,19 @@
   float: left;
   padding: 10px;
 }
+
+#column1 {
+  background-color: aliceblue;
+  }
+
+#column2 {
+  background-color: lightsteelblue;
+}
+
+#column3 {
+  background-color: lightskyblue;
+}
+
 img {
   max-width: 75%;
   max-height: 50%;
